@@ -1,0 +1,5 @@
+main: pw.xwy.CombatWall.Main
+name: CombatWall
+version: 1.0
+depend: [Notorious]
+author: Xwy
